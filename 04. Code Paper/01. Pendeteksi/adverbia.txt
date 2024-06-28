@@ -1,0 +1,20 @@
+adverbia
+NER (Named Entity Recognition)
+
+jurnal tentang adverbia
+
+kesimpulan :
+- pola penulisan orang di tweet
+- perlunya normalisasi kata slang
+- filtering terhadap kata2 adverbial yang mengandung sentimen
+
+Metode :
+- tambahkan proses identifikasi kata slang <
+
+pembahasan :
+- dijelaskan kata2 slang yang teridentifikasi, kata apa yang sering disingkat, pola penulisan kata ganti orang, predikat, nomina
+- kata2 yang seharusnya dikecualikan pada proses identifikasi (negara, provinsi, kabupaten/kota, kecamatan, kelurahan dan desa)
+- dijelaskan penemuan kata yang dihapus oleh stopword ternyata mengandung sentimen (seperti kurang dan hanya)
+
+jumlah kata slank yang teridentifikasi
+8198
